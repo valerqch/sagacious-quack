@@ -1,7 +1,7 @@
 package workers;
 
 public class Junior implements Worker {
-    private final int hourCost = 15;
+    private final int hourCost = 10;
     private final int overworkHours = 8;
     private final int overworkMultiplier = 2;
     private final int heroBonus = 10;
